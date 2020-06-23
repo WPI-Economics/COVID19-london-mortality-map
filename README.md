@@ -1,1 +1,1 @@
-# collection of images for graphs and viz purposes
+# Map of COVID-19 deaths in MSOAs in London adjusted for age
